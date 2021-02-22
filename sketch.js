@@ -13,10 +13,10 @@ var umbrella;
 var thunder, t1,t2,t3,t4;
 var thunderCreatedFrame=0;
 function preload(){
-    t1=loadImage("images/thunderbolt/1.png")
-    t2=loadImage("images/thunderbolt/2.png")
-    t3=loadImage("images/thunderbolt/3.png")
-    t4=loadImage("images/thunderbolt/4.png")
+    t1=loadImage("/images/thunderbolt/1.png")
+    t2=loadImage("/images/thunderbolt/2.png")
+    t3=loadImage("/images/thunderbolt/3.png")
+    t4=loadImage("/images/thunderbolt/4.png")
 }
 
 function setup(){
